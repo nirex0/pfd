@@ -4,7 +4,7 @@ A Plug and Play Flutter Widget Library for Primary Flight Display.
 
 ## Features
 
-A Simple Statless PFD Widget that works across all platforms (Since it uses built-in dart drawing functionality) and has the ability to lively show **Roll** **Pitch** **Yaw**, **Air Speed** and **Ground Speed**.
+A Simple Statless PFD Widget that works across all platforms (Since it uses built-in dart drawing functionality) and has the ability to lively show **Roll**, **Pitch**, **Yaw**, **Air Speed** and **Ground Speed**.
 
 
 ## Getting started
