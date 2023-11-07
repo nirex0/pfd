@@ -1,6 +1,6 @@
 name: pfd
 description: Primary Flight Display Widget that supports Roll, Pitch, Yaw, Airspeed and Altitude.
-version: 0.0.4
+version: 0.0.5
 homepage: https://github.com/nirex0/pfd
 issue_tracker: https://github.com/nirex0/pfd/issues
 

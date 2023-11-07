@@ -14,3 +14,7 @@
 ## 0.0.4
 
 * A simple Hotfix that fixes the pubspec description to get a better score in pub.dev
+
+## 0.0.5
+
+* Added an Image to the readme file, also fixed a typo.
